@@ -1,4 +1,4 @@
-# Online-payment-hub
+
 # Online Payment Hub
 
 A simple online payment portal interface created for learning and practice purposes. This project demonstrates basic UI for selecting payment methods and entering user information.
